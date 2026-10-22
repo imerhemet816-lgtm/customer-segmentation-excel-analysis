@@ -2,6 +2,10 @@
 
 ### Excel Data Analytics Portfolio Project
 
+## Dashboard Preview
+
+![Customer Segmentation Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project focuses on analyzing customer purchasing behavior, identifying valuable customer segments, and understanding sales performance using Microsoft Excel.
